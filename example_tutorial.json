@@ -1,0 +1,309 @@
+{
+   "title": "Ağ Yazıcısı Nasıl Kurulur?",
+   "url": "https://www.wikihow.com.tr/A%C4%9F-Yaz%C4%B1c%C4%B1s%C4%B1-Nas%C4%B1l-Kurulur",
+   "title_description": "Bir ağ yazıcısı, bir bilgisayar ağına bağlı olan ve çok sayıda farklı bilgisayar tarafından erişilebilen bir yazıcıdır. Evinde veya işyerinde birden fazla bilgisayar varsa ve her bilgisayara ayrı bir yazıcı almak istemiyorsan böyle bir kurulum işine yarayacaktır. Yazıcının özelliklerine ve ağa bağlı olan bilgisayar türlerine bağlı olarak bir ağ yazıcısı kurmanın birkaç yolu vardır.",
+   "category_hierarchy": [
+      "Kategoriler",
+      "Bilgisayar ve Elektronik",
+      "Bilgisayar ve Elektronik Cihazlar"
+   ],
+   "author": {
+      "name": "wikiHow Kadrosu",
+      "blurb": "wikiHow Yazarı"
+   },
+   "n_views": "69.094",
+   "related_articles": [
+      {
+         "title": "Herhangi Bir Sitedeki Video Nas%C4%B1l %C3%9Ccretsiz %C4%B0ndirilir",
+         "link": "https://www.wikihow.com/Herhangi-Bir-Sitedeki-Video-Nas%C4%B1l-%C3%9Ccretsiz-%C4%B0ndirilir",
+         "img": "https://www.wikihow.com/images_en/thumb/c/c8/Download-Any-Video-from-Any-Website-for-Free-Step-70.jpg/-crop-342-184-245px-Download-Any-Video-from-Any-Website-for-Free-Step-70.jpg"
+      },
+      {
+         "title": "Birisinin Numaran%C4%B1 Whatsapp%27%C4%B1na Kaydetti%C4%9Fi Nas%C4%B1l Anla%C5%9F%C4%B1l%C4%B1r",
+         "link": "https://www.wikihow.com/Birisinin-Numaran%C4%B1-Whatsapp%27%C4%B1na-Kaydetti%C4%9Fi-Nas%C4%B1l-Anla%C5%9F%C4%B1l%C4%B1r",
+         "img": "https://www.wikihow.com/images_en/thumb/8/8a/Know-if-Someone-Has-Your-Number-on-WhatsApp-Step-24.jpg/-crop-342-184-245px-Know-if-Someone-Has-Your-Number-on-WhatsApp-Step-24.jpg"
+      },
+      {
+         "title": "Snapchat Puan%C4%B1 Nas%C4%B1l H%C4%B1zl%C4%B1 Artt%C4%B1r%C4%B1l%C4%B1r",
+         "link": "https://www.wikihow.com/Snapchat-Puan%C4%B1-Nas%C4%B1l-H%C4%B1zl%C4%B1-Artt%C4%B1r%C4%B1l%C4%B1r",
+         "img": "https://www.wikihow.com/images_en/thumb/2/25/Increase-Your-Snapchat-Score-Fast-Step-7-Version-2.jpg/-crop-342-184-245px-Increase-Your-Snapchat-Score-Fast-Step-7-Version-2.jpg"
+      },
+      {
+         "title": "Ba%C5%9Fkas%C4%B1n%C4%B1n WhatsApp Hesab%C4%B1na Nas%C4%B1l Eri%C5%9Filir",
+         "link": "https://www.wikihow.com/Ba%C5%9Fkas%C4%B1n%C4%B1n-WhatsApp-Hesab%C4%B1na-Nas%C4%B1l-Eri%C5%9Filir",
+         "img": "https://www.wikihow.com/images_en/thumb/e/ef/Access-Someone-Else%27s-WhatsApp-Account-Step-6-Version-3.jpg/-crop-342-184-245px-Access-Someone-Else%27s-WhatsApp-Account-Step-6-Version-3.jpg"
+      },
+      {
+         "title": "Resim Kullanarak Biri Kolayca Nas%C4%B1l Ara%C5%9Ft%C4%B1r%C4%B1l%C4%B1r ve Bulunur",
+         "link": "https://www.wikihow.com/Resim-Kullanarak-Biri-Kolayca-Nas%C4%B1l-Ara%C5%9Ft%C4%B1r%C4%B1l%C4%B1r-ve-Bulunur",
+         "img": "https://www.wikihow.com/images_en/thumb/c/ce/Search-and-Find-About-Someone-Using-Image-Easily-Step-15-Version-2.jpg/-crop-342-184-245px-Search-and-Find-About-Someone-Using-Image-Easily-Step-15-Version-2.jpg"
+      },
+      {
+         "title": "Nas%C4%B1l Hack Yap%C4%B1yormu%C5%9Fsun Gibi G%C3%B6r%C3%BCn%C3%BCl%C3%BCr",
+         "link": "https://www.wikihow.com/Nas%C4%B1l-Hack-Yap%C4%B1yormu%C5%9Fsun-Gibi-G%C3%B6r%C3%BCn%C3%BCl%C3%BCr",
+         "img": "https://www.wikihow.com/images_en/thumb/2/2b/Hollywood2.png/-crop-342-184-342px-Hollywood2.png"
+      },
+      {
+         "title": "Grand Theft Auto (GTA) V%27te K%C4%B1z Arkada%C5%9F Nas%C4%B1l Bulunur",
+         "link": "https://www.wikihow.com/Grand-Theft-Auto-(GTA)-V%27te-K%C4%B1z-Arkada%C5%9F-Nas%C4%B1l-Bulunur",
+         "img": "https://www.wikihow.com/images_en/thumb/2/27/Get-a-Girlfriend-in-Grand-Theft-Auto-%28GTA%29-5-Step-11.jpg/-crop-342-184-245px-Get-a-Girlfriend-in-Grand-Theft-Auto-%28GTA%29-5-Step-11.jpg"
+      },
+      {
+         "title": "Ak%C4%B1ll%C4%B1 Saat Android%27le Nas%C4%B1l E%C5%9Fle%C5%9Ftirilir",
+         "link": "https://www.wikihow.com/Ak%C4%B1ll%C4%B1-Saat-Android%27le-Nas%C4%B1l-E%C5%9Fle%C5%9Ftirilir",
+         "img": "https://www.wikihow.com/images_en/thumb/2/25/Pair-a-Smartwatch-with-an-Android-Step-18.jpg/-crop-342-184-218px-Pair-a-Smartwatch-with-an-Android-Step-18.jpg"
+      },
+      {
+         "title": "Smart TV%27ye Uygulama Nas%C4%B1l Eklenir",
+         "link": "https://www.wikihow.com/Smart-TV%27ye-Uygulama-Nas%C4%B1l-Eklenir",
+         "img": "https://www.wikihow.com/images_en/thumb/e/ec/Add-Apps-to-a-Smart-TV-Step-34.jpg/-crop-342-184-245px-Add-Apps-to-a-Smart-TV-Step-34.jpg"
+      },
+      {
+         "title": "AirPod Pil Durumu Nas%C4%B1l Kontrol Edilir",
+         "link": "https://www.wikihow.com/AirPod-Pil-Durumu-Nas%C4%B1l-Kontrol-Edilir",
+         "img": "https://www.wikihow.com/images_en/thumb/0/0a/Check-Your-Airpod-Battery-Step-20.jpg/-crop-342-184-245px-Check-Your-Airpod-Battery-Step-20.jpg"
+      },
+      {
+         "title": "Android%27de Spotify %C3%87alma Listeni Kimin Takip Etti%C4%9Fi G%C3%B6r%C3%BCl%C3%BCr m%C3%BC (2021)",
+         "link": "https://www.wikihow.com/Android%27de-Spotify-%C3%87alma-Listeni-Kimin-Takip-Etti%C4%9Fi-G%C3%B6r%C3%BCl%C3%BCr-m%C3%BC-(2021)",
+         "img": "https://www.wikihow.com/images_en/thumb/5/5d/See-Who-Follows-Your-Playlist-on-Spotify-on-Android-Step-3-Version-3.jpg/-crop-342-184-245px-See-Who-Follows-Your-Playlist-on-Spotify-on-Android-Step-3-Version-3.jpg"
+      },
+      {
+         "title": "SIM%27den Telefon Numaras%C4%B1 Nas%C4%B1l %C3%96%C4%9Frenilir",
+         "link": "https://www.wikihow.com/SIM%27den-Telefon-Numaras%C4%B1-Nas%C4%B1l-%C3%96%C4%9Frenilir",
+         "img": "https://www.wikihow.com/images_en/thumb/5/5e/Get-Your-Mobile-Number-from-Your-SIM-Step-33.jpg/-crop-342-184-245px-Get-Your-Mobile-Number-from-Your-SIM-Step-33.jpg"
+      },
+      {
+         "title": "Numaran%C4%B1n Engellendi%C4%9Fi Nas%C4%B1l Anla%C5%9F%C4%B1l%C4%B1r",
+         "link": "https://www.wikihow.com/Numaran%C4%B1n-Engellendi%C4%9Fi-Nas%C4%B1l-Anla%C5%9F%C4%B1l%C4%B1r",
+         "img": "https://www.wikihow.com/images_en/thumb/5/5f/Know-if-Your-Number-Was-Blocked-Step-10.jpg/-crop-342-184-253px-Know-if-Your-Number-Was-Blocked-Step-10.jpg"
+      },
+      {
+         "title": "Televizyonun %C3%96l%C3%A7%C3%BCs%C3%BC Nas%C4%B1l Al%C4%B1n%C4%B1r",
+         "link": "https://www.wikihow.com/Televizyonun-%C3%96l%C3%A7%C3%BCs%C3%BC-Nas%C4%B1l-Al%C4%B1n%C4%B1r",
+         "img": "https://www.wikihow.com/images_en/thumb/b/b7/Measure-a-TV-Step-7-Version-4.jpg/-crop-342-184-245px-Measure-a-TV-Step-7-Version-4.jpg"
+      }
+   ],
+   "tips": [],
+   "warnings": [],
+   "references": [
+      "http://www.7tutorials.com/printing-shared-macintosh-os-x-printer-windows-7",
+      "http://windows.microsoft.com/en-us/windows/install-printer-home-network#1TC=windows-7",
+      "http://www.uta.edu/oit/cs/hardware/printing/addtcpipprtr2.php",
+      "http://support.apple.com/en-us/HT4670",
+      "http://support.apple.com/en-us/HT202167http://windows.microsoft.com/en-us/windows/install-printer-home-network#1TC=windows-7",
+      "http://support.apple.com/en-us/HT202167"
+   ],
+   "other_languages": {
+      "English:": "https://www.wikihow.com/Install-a-Network-Printer",
+      "Español:": "https://es.wikihow.com/instalar-una-impresora-de-red",
+      "Português:": "https://pt.wikihow.com/Instalar-uma-Impressora-de-Rede",
+      "Italiano:": "https://www.wikihow.it/Installare-una-Stampante-di-Rete",
+      "Русский:": "https://ru.wikihow.com/%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C-%D1%81%D0%B5%D1%82%D0%B5%D0%B2%D0%BE%D0%B9-%D0%BF%D1%80%D0%B8%D0%BD%D1%82%D0%B5%D1%80",
+      "Bahasa Indonesia:": "https://id.wikihow.com/Memasang-Pencetak-Jaringan",
+      "Français:": "https://fr.wikihow.com/installer-une-imprimante-en-r%C3%A9seau",
+      "Nederlands:": "https://nl.wikihow.com/Een-netwerkprinter-installeren",
+      "ไทย:": "https://th.wikihow.com/%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87-Network-Printer",
+      "Tiếng Việt:": "https://www.wikihow.vn/C%C3%A0i-%C4%91%E1%BA%B7t-m%C3%A1y-in-d%C3%B9ng-chung-trong-m%E1%BA%A1ng",
+      "हिन्दी:": "https://hi.wikihow.com/%E0%A4%8F%E0%A4%95-%E0%A4%A8%E0%A5%87%E0%A4%9F%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%95-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%9F%E0%A4%B0-%E0%A4%87%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%89%E0%A4%B2-%E0%A4%95%E0%A4%B0%E0%A5%87%E0%A4%82-(Install-a-Network-Printer)",
+      "日本語:": "https://www.wikihow.jp/%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%82%92%E8%A8%AD%E5%AE%9A%E3%81%99%E3%82%8B",
+      "中文:": "https://zh.wikihow.com/%E5%AE%89%E8%A3%85%E7%BD%91%E7%BB%9C%E6%89%93%E5%8D%B0%E6%9C%BA",
+      "한국어:": "https://ko.wikihow.com/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%94%84%EB%A6%B0%ED%84%B0-%EC%84%A4%EC%B9%98%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95"
+   },
+   "methods": [],
+   "parts": [],
+   "steps": [
+      {
+         "name": "Bağımsız Bir Yazıcı Kurmak",
+         "steps": [
+            {
+               "headline": "Yazıcını ağa bağla.",
+               "description": "Bunun için yapılacak olan işlem yazıcıdan yazıcıya değişir. Çoğu modern yazıcı ağa Wi-Fi ile bağlanabilir. Bazı yazıcılar Ethernet kablosuyla bağlanabilir, ancak Ethernet'in verimli çalışabilmesi için yazıcının yönlendiriciye yeterince yakın olması gerekir. Yazıcın Wi-Fi özellikli ise genelde yerleşik menü ekranını kullanarak ağa bağlayabilirsin. Kesin talimatlar için yazıcının kullanım kılavuzuna bak veya İnternet’ten yazıcı modelini ara. Wi-Fi yazıcının güçlü bir sinyal alabilmesi için yönlendiriciye yeterince yakın olduğundan emin ol.",
+               "img": "https://www.wikihow.com/Ağ-Yazıcısı-Nasıl-Kurulur?#/Dosya:Install-a-Network-Printer-Step-1-Version-2.jpg",
+               "internal_links": [],
+               "image_license": "Creative Common"
+            },
+            {
+               "headline": "Yazıcıya bağlan (Windows).",
+               "description": "Yazıcı ağa bağlı olduğuna göre, gerekli yazılımı otomatik olarak bilgisayarına kurmak için Windows \"Yazıcı Ekle\" sihirbazını kullanabilirsin. OS X kullanıyorsan bir sonraki adıma atla. X Kaynağı araştır Başlat menüsüne tıkla ve Denetim Masası’nı seç. Windows 8 kullanıcıları ⊞ Win tuşuna basıp \"denetim masası\" yazabilirler. \"Aygıtlar ve Yazıcılar\" veya \"Aygıtları ve yazıcıları görüntüle\"yi seç. Pencerenin en üstündeki Yazıcı ekle’ye tıkla. \"Ağ yazıcısı, kablosuz yazıcı veya Bluetooth yazıcı ekle\"yi seç. Listeden yazıcını seç ve İleri’ye tıkla. İstendiğinde gerekli sürücüleri yükle. Windows çoğu yazıcı için doğru sürücüleri bulup yükleyebilmelidir.",
+               "img": "https://www.wikihow.com/Ağ-Yazıcısı-Nasıl-Kurulur?#/Dosya:Install-a-Network-Printer-Step-2-Version-2.jpg",
+               "internal_links": [],
+               "image_license": "Creative Common"
+            },
+            {
+               "headline": "Yazıcıya bağlan (Mac OS X).",
+               "description": "OS X'te bağlanmaya çalıştığın bir ağ yazıcısının AirPrint veya Bonjour desteği olması gerektiğini unutma. Bu özelliklere sahip olduğundan emin olmak için yazıcının kullanım kılavuzuna bak. Eğer sahip değilse IP adresi ile bağlanabilmelisin (Bu bölümün sonundaki Sorun Giderme adımlarına bak). X Kaynağı araştır Apple menüsüne tıkla ve \"Sistem Tercihleri\"ni seç. \"Yazıcılar ve Tarayıcılar\" seçeneğine tıkla. Yazıcı listesinin altındaki \"+\" düğmesini basılı tut. Eklemek istediğin yazıcıyı görünen menüden seç. İstediğin yazıcı listede yoksa bu bölümün sonundaki Sorun Giderme adımlarına bak. İstenirse İndir & Yükle düğmesine tıkla. OS X’de, birçok yazıcı için gerekli yazılım bulunur fakat aynı zamanda yerleşik olmayan yazıcılar için sürücü indirmeyi de sağlar. Bu düğmeye tıklamak, OS X'in gerekli sürücüleri Apple'dan indirmesini sağlayacaktır.",
+               "img": "https://www.wikihow.com/Ağ-Yazıcısı-Nasıl-Kurulur?#/Dosya:Install-a-Network-Printer-Step-3-Version-2.jpg",
+               "internal_links": [],
+               "image_license": "Creative Common"
+            },
+            {
+               "headline": "Ağ yazıcısından çıktı al.",
+               "description": "Yazıcıyı işletim sistemine ekledikten sonra doğrudan bilgisayarına bağlı bir yazıcıdan çıktı alır gibi çıktı alabilirsin. Yazıcıyı herhangi bir programın \"Yazdır\" penceresinden seç. Yazıcının açık ve bilgisayarınla aynı ağa bağlı olduğundan emin ol.",
+               "img": "https://www.wikihow.com/Ağ-Yazıcısı-Nasıl-Kurulur?#/Dosya:Install-a-Network-Printer-Step-4-Version-2.jpg",
+               "internal_links": [],
+               "image_license": "Creative Common"
+            }
+         ]
+      },
+      {
+         "name": "Bir Windows Yazıcısını Paylaştırmak",
+         "steps": [
+            {
+               "headline": "Bir yazıcıyı yerel ağındaki Windows 7 ve Windows 8 bilgisayarlar arasında paylaşmak için Ev Gruplarını kullan.",
+               "description": "Ev ağında yalnızca Windows 7 ve 8 bilgisayarlar varsa, yazıcını ağdaki diğer bilgisayarlarla paylaşmanın en kolay yolu bir Ev Grubu kullanmaktır. Ev Grupları senin için uygun değilse okumaya devam et.",
+               "img": "https://www.wikihow.com/Ağ-Yazıcısı-Nasıl-Kurulur?#/Dosya:Install-a-Network-Printer-Step-7-Version-2.jpg",
+               "internal_links": [],
+               "image_license": "Creative Common"
+            },
+            {
+               "headline": "Yazıcıyı, onu paylaşacak olan Windows bilgisayara yükle.",
+               "description": "Çıktı alınabilmesi için bilgisayarın açık olması gerekeceğinden, yazıcıyı en çok açık kalan bilgisayara yüklemelisin. USB kablosunu bilgisayara bağladığında çoğu yazıcı otomatik olarak yüklenir.",
+               "img": "https://www.wikihow.com/Ağ-Yazıcısı-Nasıl-Kurulur?#/Dosya:Install-a-Network-Printer-Step-8-Version-2.jpg",
+               "internal_links": [],
+               "image_license": "Creative Common"
+            },
+            {
+               "headline": "Windows'ta yazıcı paylaşımını etkinleştir.",
+               "description": "Ağdaki diğer bilgisayarların yüklü yazıcına bağlanmasına izin vermek için yazıcı paylaşımını etkinleştirmen gerekir. Denetim Masası'nı aç ve \"Ağ ve Paylaşım Merkezi\" veya \"Ağ ve İnternet\"i seç. \"Gelişmiş paylaşım ayarlarını değiştirin\" bağlantısına tıkla. \"Özel\" ağ ayarları menüsünü aç. Bunlar Ev ağının ayarlarıdır. \"Dosya ve yazıcı paylaşımını aç\" seçeneğini seç. Değişiklikleri kaydet’e tıkla.",
+               "img": "https://www.wikihow.com/Ağ-Yazıcısı-Nasıl-Kurulur?#/Dosya:Install-a-Network-Printer-Step-9.jpg",
+               "internal_links": [],
+               "image_license": "Creative Common"
+            },
+            {
+               "headline": "Yüklenen yazıcıyı paylaş.",
+               "description": "Artık yazıcı paylaşımı etkin olduğuna göre yazıcıyı paylaşılacak şekilde ayarlayabilirsin. Denetim Masası’nı aç. \"Aygıtlar ve Yazıcılar\" veya \"Aygıtları ve yazıcıları görüntüle\"yi seç. Paylaşmakta olduğun yazıcıya sağ tıkla ve \"Yazıcı özellikleri\"ni seç. \"Özellikler\" seçeneğini seçme. Paylaşım sekmesine tıkla, \"Bu yazıcıyı paylaştır\" kutusunu işaretle ve Uygula düğmesine tıkla.",
+               "img": "https://www.wikihow.com/Ağ-Yazıcısı-Nasıl-Kurulur?#/Dosya:Install-a-Network-Printer-Step-10.jpg",
+               "internal_links": [],
+               "image_license": "Creative Common"
+            },
+            {
+               "headline": "Paylaşılan yazıcıya bağlan (Windows).",
+               "description": "Mac'te paylaşılan yazıcıya bağlanmaya çalışıyorsan bir sonraki adıma geç. Yazıcıyı paylaşan bilgisayarın ve oturumunun açık olduğundan emin ol. Paylaşılan yazıcıya bağlanan bilgisayardaki Denetim Masası'nı aç. \"Aygıtlar ve Yazıcılar\" veya \"Aygıtları ve yazıcıları görüntüle\"yi seç. Pencerenin üstündeki Yazıcı ekle’ye tıkla. \"Ağ yazıcısı, kablosuz yazıcı veya Bluetooth yazıcı ekle\"yi seç. Listeden yazıcını seç ve İleri’ye tıkla. İstendiğinde gerekli sürücüleri yükle. Windows çoğu yazıcı için doğru sürücüleri bulup yükleyebilmelidir.",
+               "img": "https://www.wikihow.com/Ağ-Yazıcısı-Nasıl-Kurulur?#/Dosya:Install-a-Network-Printer-Step-11.jpg",
+               "internal_links": [],
+               "image_license": "Creative Common"
+            },
+            {
+               "headline": "Paylaşılan yazıcıya bağlan (Mac).",
+               "description": "Mac bilgisayar kullanıyorsan, bir Windows bilgisayarın paylaştığı yazıcıya bağlanabilirsin. Her iki bilgisayarın da aynı çalışma grubunda olduğundan emin ol. Devam etmeden önce yazıcının Mac sürücülerini indirmeyi dene. Bağlandığın yazıcı için OS X sürücülerinin mevcut olup olmadığını görmek için üreticinin destek sayfasına bak. Varsa indir, fakat bulamazsan endişelenme. Apple menüsüne tıkla ve \"Sistem Tercihleri\"ni seç. \"Yazıcılar ve Tarayıcılar\" seçeneğine tıkla. Yeni bir yazıcı eklemek için \"+\" düğmesine tıkla. \"Windows\" sekmesini seç. Çalışma grubunu, yazıcıyı paylaşan bilgisayarın adını ve ardından eklemek istediğin yazıcıyı seç. Eğer bir OS X sürücüsü indirebildiysen \"Kullan\" menüsünü tıkla ve \"Diğer...\"i seç, ardından indirdiğin sürücüyü seç. Eğer sürücüyü bulamadıysan \"Yazıcı Yazılımını Seç...\" seçeneğine tıkla ve listeden uyumlu yazılım olup olmadığına bak. Bir eşleşme bulamazsan \"Genel PostScript Yazıcı\" seçeneğini seç. Herhangi bir yapılandırma seçeneğini ayarla. Sürücüyü yükledikten sonra yazıcının izin verdiği yapılandırma seçeneklerini ayarlayabilirsin.",
+               "img": "https://www.wikihow.com/Ağ-Yazıcısı-Nasıl-Kurulur?#/Dosya:Install-a-Network-Printer-Step-12.jpg",
+               "internal_links": [],
+               "image_license": "Creative Common"
+            },
+            {
+               "headline": "Paylaşılan yazıcıdan çıktı al.",
+               "description": "Yazıcıyı işletim sistemine (Windows veya Mac) yükledikten sonra doğrudan bilgisayara bağlanmış gibi yazdırabilirsin. Onu herhangi bir programdaki Yazdır iletişim kutusundan seçmen yeterli. Yazıcı görünmüyorsa yazıcının ve bağlı olduğu bilgisayarın kendisinin ve oturumunun açık olduğundan emin ol.",
+               "img": "https://www.wikihow.com/Ağ-Yazıcısı-Nasıl-Kurulur?#/Dosya:Install-a-Network-Printer-Step-13.jpg",
+               "internal_links": [],
+               "image_license": "Creative Common"
+            }
+         ]
+      },
+      {
+         "name": "Bir Mac Yazıcısını Paylaştırmak",
+         "steps": [
+            {
+               "headline": "Paylaşımı yapacak olan Mac'e yazıcıyı yükle.",
+               "description": "Çıktı alınabilmesi için bilgisayarın açık olması gerekeceğinden, yazıcıyı en çok açık kalan bilgisayara yüklemelisin. Mac'in paylaşılan bir Windows bilgisayarına bağlanmasının tersi durumdan daha kolay olduğunu unutma. Eğer elindeki bilgisayarlar farklı türlerse yazıcıyı Windows bilgisayarına yüklemeyi düşün ve önceki yöntemi kullan.",
+               "img": "https://www.wikihow.com/Ağ-Yazıcısı-Nasıl-Kurulur?#/Dosya:Install-a-Network-Printer-Step-15.jpg",
+               "internal_links": [],
+               "image_license": "Creative Common"
+            },
+            {
+               "headline": "Yazıcının yüklü olduğu Mac'te yazıcı paylaşımını etkinleştir.",
+               "description": "Diğer Mac bilgisayarların yazıcıya bağlanabilmesi için yazıcı paylaşımını etkinleştirmen gerekir. Apple menüsüne tıkla ve \"Sistem Tercihleri\"ni seç. \"Paylaşma\" seçeneğini seç. \"Yazıcı Paylaşma\" kutusunu işaretle.",
+               "img": "https://www.wikihow.com/Ağ-Yazıcısı-Nasıl-Kurulur?#/Dosya:Install-a-Network-Printer-Step-16.jpg",
+               "internal_links": [],
+               "image_license": "Creative Common"
+            },
+            {
+               "headline": "Yazıcıyı paylaş.",
+               "description": "Yazıcı Paylaşma'yı etkinleştirdikten sonra hangi yazıcıları paylaşmak istediğini seçebilirsin. \"Paylaşma\" penceresinden, paylaşmak istediğin yazıcının yanındaki kutuyu işaretle. Eğer birden fazla yazıcın varsa, kullanıma açmak istediğin tüm yazıcıları işaretle.",
+               "img": "https://www.wikihow.com/Ağ-Yazıcısı-Nasıl-Kurulur?#/Dosya:Install-a-Network-Printer-Step-17.jpg",
+               "internal_links": [],
+               "image_license": "Creative Common"
+            },
+            {
+               "headline": "İzinlerini değiştir (isteğe bağlı).",
+               "description": "Bir yazıcıyı paylaştıktan sonra ona kimlerin erişebileceğini seçebilirsin. Varsayılan olarak, ağına bağlı olan herkes yazıcıdan çıktı alabilir. İstersen belirli kullanıcılara erişim izni verebilirsin.",
+               "img": "https://www.wikihow.com/Ağ-Yazıcısı-Nasıl-Kurulur?#/Dosya:Install-a-Network-Printer-Step-18.jpg",
+               "internal_links": [],
+               "image_license": "Creative Common"
+            },
+            {
+               "headline": "Paylaşılan yazıcıya bağlan (Mac).",
+               "description": "Artık yazıcı paylaşıldığına göre diğer Mac bilgisayarlarından ona bağlanabilirsin. Paylaşılan yazıcıya bir Windows bilgisayarından bağlıyorsan bir sonraki adıma geç. Apple menüsüne tıkla ve \"Sistem Tercihleri\"ni seç. \"Yazıcılar ve Tarayıcılar\" seçeneğine tıkla. Yazıcı listesinin altındaki \"+\" düğmesini basılı tut. Görünen menüden eklemek istediğin yazıcıyı seç.",
+               "img": "https://www.wikihow.com/Ağ-Yazıcısı-Nasıl-Kurulur?#/Dosya:Install-a-Network-Printer-Step-19.jpg",
+               "internal_links": [],
+               "image_license": "Creative Common"
+            },
+            {
+               "headline": "Paylaşılan yazıcıya bağlan (Windows).",
+               "description": "Eğer bir Mac üzerinden paylaşılan bir yazıcıya Windows bilgisayarından bağlanmaya çalışıyorsan Windows bilgisayara Apple'dan bazı özel yazılımlar indirmen gerekir. Bonjour Print Services yazılımını indir. Bunu Apple'dan indirmek için buraya tıkla. X Kaynağı araştır Bonjour yazılımını kurmak için yükleyiciyi çalıştır. \"Bonjour Yazıcı Sihirbazı\"nı çalıştır. Bu, Bonjour yazılımını kurduktan sonra görünecektir. Bağlanmak istediğin yazıcıyı seç. Yazıcının görünmesi için Mac'in Windows bilgisayarla aynı ağa bağlı olduğundan emin ol. İstenirse yazıcı yazılımını yükle. Yeni yazıcın için yazılımı seçmen istenebilir. İstediğin yazıcı listede değilse yazıcı üreticisinin destek sayfasından doğru sürücüleri indirmen gerekir.",
+               "img": "https://www.wikihow.com/Ağ-Yazıcısı-Nasıl-Kurulur?#/Dosya:Install-a-Network-Printer-Step-20.jpg",
+               "internal_links": [
+                  "http://support.apple.com/kb/DL999"
+               ],
+               "image_license": "Creative Common"
+            },
+            {
+               "headline": "Paylaşılan yazıcıdan çıktı al.",
+               "description": "Yazıcıyı işletim sistemine (Windows veya Mac) yükledikten sonra, doğrudan bilgisayara bağlıymış gibi yazdırabilirsin. Tek yapman gereken herhangi bir programdaki Yazdır iletişim kutusundan yazıcıyı seçmektir. Yazıcı görünmüyorsa, yazıcının ve bağlı olduğu bilgisayarın kendisinin ve oturumunun açık olduğundan emin ol.",
+               "img": "https://www.wikihow.com/Ağ-Yazıcısı-Nasıl-Kurulur?#/Dosya:Install-a-Network-Printer-Step-21.jpg",
+               "internal_links": [],
+               "image_license": "Creative Common"
+            }
+         ]
+      },
+      {
+         "name": "IP Adresi Üzerinden Bir Ağ Yazıcısı Kurmak",
+         "steps": [
+            {
+               "headline": "Bu yöntemi ne zaman kullanman gerektiğini öğren.",
+               "description": "Çoğu zaman eski ekipmanlar daha yeni yazıcı ağı kurulumları ile uyumlu çalışmaz. Yazıcının IP adresi üzerinden bağlanmak en uygun olanıdır, ancak bu şekilde yazıcının diğer özelliklerinden hiçbirine erişemezsin. Bazı tipik durumlar şunlardır: Eğer ağa daha eski bir yazıcıyı bağlamaya çalışıyorsan işletim sistemi bu yazıcıyı otomatik olarak tanımayabilir. Yazıcın bir yazıcı sunucusuna bağlıysa yazıcı yerine o sunucuya bağlanman gerekir. Eğer işletim sistemin Windows XP veya OS X Snow Leopard gibi eski bir sürüm ise otomatik olarak yeni yazıcılar ekleyemeyebilirsin. Eğer okulunun yazıcılarına bağlanıyorsan muhtemelen IP adresini kullanman gerekecektir.",
+               "img": "https://www.wikihow.com/Ağ-Yazıcısı-Nasıl-Kurulur?#/Dosya:Install-a-Network-Printer-Step-23.jpg",
+               "internal_links": [],
+               "image_license": "Creative Common"
+            },
+            {
+               "headline": "Yazıcıyı ağa bağla.",
+               "description": "Yazıcıyı bir Ethernet kablosu ile doğrudan ağ anahtarına (switch), ağa bağlı bir yazıcı sunucusuna bağlayabilir ya da yazıcının yerleşik kablosuz adaptörünü kullanarak ağa bağlayabilirsin.",
+               "img": "https://www.wikihow.com/Ağ-Yazıcısı-Nasıl-Kurulur?#/Dosya:Install-a-Network-Printer-Step-24.jpg",
+               "internal_links": [],
+               "image_license": "Creative Common"
+            },
+            {
+               "headline": "Yazıcının IP adresini al.",
+               "description": "Yazıcının IP adresini birkaç farklı yoldan öğrenebilirsin. Yazıcının bir ekranı varsa IP adresini yazıcının Ağ veya Ayarlar menüsünden görebilirsin. Çoğu yazıcı IP adresini yapılandırma sayfasına yazdırır. Bunu yazıcının Ayarlar menüsünden yazdırabilirsin. Daha eski bir yazıcı kullanıyorsan, yazıcının IP adresini belirlemek için yönlendiriciye erişmen gerekebilir. Bir yazıcı sunucusuna bağlanıyorsan sunucunun IP adresine ihtiyacın olacaktır. Bir okulun yazıcısına bağlanıyorsan Bilgi İşlem birimi sana IP adreslerini verecektir.",
+               "img": "https://www.wikihow.com/Ağ-Yazıcısı-Nasıl-Kurulur?#/Dosya:Install-a-Network-Printer-Step-25.jpg",
+               "internal_links": [
+                  "https://www.wikihow.com/Y%C3%B6nlendiriciye-Nas%C4%B1l-Eri%C5%9Filir"
+               ],
+               "image_license": "Creative Common"
+            },
+            {
+               "headline": "Yazıcıya bağlan (Windows).",
+               "description": "Mac kullanıyorsan bir sonraki adıma atla. X Kaynağı araştır Denetim Masası'nı aç ve \"Aygıtlar ve Yazıcılar\" veya \"Aygıtları ve yazıcıları görüntüle\"yi seç. Yazıcı ekle düğmesine tıkla ve ardından \"Yerel yazıcı veya ağ yazıcısı ekle\"yi seç. \"Yeni bağlantı noktası oluştur\"u seç ve ardından menüden \"Standart TCP/IP Port\"u seç. İleri düğmesine tıkla. Yazıcının IP adresini \"Ana Bilgisayar Adı veya IP adresi\" alanına gir. İleri düğmesine tıkla. Yazıcının markasını ve modelini seç. Listelenmemişse İnternet’ten kontrol etmek için Windows Update seçeneğini seç veya elinde yazıcının yazılımı varsa Disketi Var... düğmesine tıkla. Geçerli sürücüyü kullanman veya değiştirmen istenirse yüklü olan sürücüyü kullanmayı seç.",
+               "img": "https://www.wikihow.com/Ağ-Yazıcısı-Nasıl-Kurulur?#/Dosya:Install-a-Network-Printer-Step-26.jpg",
+               "internal_links": [],
+               "image_license": "Creative Common"
+            },
+            {
+               "headline": "Yazıcıya bağlan (Mac OS X).",
+               "description": "X Kaynağı araştır Apple menüsüne tıkla ve \"Sistem Tercihleri\"ni seç. \"Yazıcılar ve Tarayıcılar\" seçeneğine tıkla. Yazıcı listesinin altındaki \"+\" düğmesine tıkla. Yazıcı Ekle penceresinin üstündeki \"IP\" sekmesine tıkla. Yazıcının IP adresini \"Adres\" alanına gir. Doğru Protokolü seç. Birçok sistem varsayılan \"Line Printer Daemon\"ı kullanır, ancak emin değilsen ağ yöneticine danış. Ekle’ye tıkla. Yazılım yüklemen istenirse indirmek veya bir disketten yüklemek için talimatları izle.",
+               "img": "https://www.wikihow.com/Ağ-Yazıcısı-Nasıl-Kurulur?#/Dosya:Install-a-Network-Printer-Step-27.jpg",
+               "internal_links": [],
+               "image_license": "Creative Common"
+            },
+            {
+               "headline": "Ağ yazıcısından çıktı al.",
+               "description": "Yazıcıyı işletim sistemine ekledikten sonra onu herhangi bir Yazdır iletişim kutusundan seçebilirsin.",
+               "img": "https://www.wikihow.com/Ağ-Yazıcısı-Nasıl-Kurulur?#/Dosya:Install-a-Network-Printer-Step-28.jpg",
+               "internal_links": [],
+               "image_license": "Creative Common"
+            }
+         ]
+      }
+   ]
+}
