@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --job-name=Reproduce_SimCSE            
+#SBATCH --job-name=x
 #SBATCH --nodes=1        
 #SBATCH --ntasks-per-node=4    
 #SBATCH --partition=mid        
