@@ -104,4 +104,4 @@ To be updated upon publication.
 
 # ℹ️ Acknowledgement
 
-We gratefully acknowledge the support of the KUIS AI Center at Koc University, as it provided us with the computational power to train and evaluate the models in this study. 
+This work has been supported by the [Scientific and Technological Research Council of Türkiye~(TÜBİTAK)](https://www.tubitak.gov.tr/) as part of the project ``Automatic Learning of Procedural Language from Natural Language Instructions for Intelligent Assistance'' with the number 121C132. We also gratefully acknowledge [KUIS AI Lab](https://ai.ku.edu.tr/) for providing computational support. 
