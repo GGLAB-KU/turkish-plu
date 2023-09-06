@@ -104,4 +104,4 @@ To be updated upon publication.
 
 # ℹ️ Acknowledgement
 
-To be updated upon publication.
+We gratefully acknowledge the support of the KUIS AI Center at Koc University, as it provided us with the computational power to train and evaluate the models in this study. 
