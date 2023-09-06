@@ -6,7 +6,7 @@ Turkish PLU Benchmark is the first and single (so far) resource to study procedu
 
 We utilize wikiHow, a large-scale source for procedural texts that contains how-to tutorials in a wide range of domains, from Pets and Animals to Crafts and Hobbies, to create our corpus. We only focus on the following categories: Cars and Other Vehicles, Computers and Electronics, Health, Hobbies and Crafts, Home and Garden, Pets and Animals. Unlike categories like Relationships or Youth, they contain well-defined, more objective articles that are better suited to evaluate procedural language understanding abilities. We follow the file format of [English wikiHow corpus](https://github.com/zharry29/wikihow-goal-step) and extract title, methods/parts, steps, as well as the additional information, such as the related tutorials, references, tips, and warnings. An example tutorial can be seen [here](https://github.com/ardauzunoglu/turkish-plu/blob/main/example_tutorial.json).
 
-Our corpus creation method, corpus statistics, and machine translation quality control can be reviewed in our [paper](). You can download our corpus [here]().
+Our corpus creation method, corpus statistics, and machine translation quality control can be reviewed in our [paper](). You can download our corpus [here](https://drive.google.com/drive/folders/1dk9GKE58Q6lv2R0Dsj5lxnB2TGQ8W7Hy?usp=sharing).
 
 # 🥅 Tasks
 
