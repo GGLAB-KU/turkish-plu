@@ -92,9 +92,9 @@ While the Turkish wikiHow corpus constitutes an umbrella dataset, we also create
 ```
 # 🤖 Baseline Models
 
-Goal Inference: [BERTurk](https://huggingface.co/ardauzunoglu/BERTurk-GI), [DistilBERTurk](https://huggingface.co/ardauzunoglu/DistilBERTurk-GI), [XLM](https://huggingface.co/ardauzunoglu/XLM-R-Turkish-GI) <br>
+Goal Inference: [BERTurk](https://huggingface.co/ardauzunoglu/BERTurk-GI), [DistilBERTurk](https://huggingface.co/ardauzunoglu/DistilBERTurk-GI), [XLM-R](https://huggingface.co/ardauzunoglu/XLM-R-Turkish-GI) <br>
 Step Ordering: [BERTurk](https://huggingface.co/ardauzunoglu/BERTurk-SO), [DistilBERTurk](https://huggingface.co/ardauzunoglu/DistilBERTurk-SO), [XLM-R](https://huggingface.co/ardauzunoglu/XLM-R-Turkish-SO) <br>
-Next Event Prediction: [BERTurk](https://huggingface.co/ardauzunoglu/BERTurk-NEP), [DistilBERTurk](https://huggingface.co/ardauzunoglu/DistilBERTurk-NEP), [XLM](https://huggingface.co/ardauzunoglu/XLM-R-Turkish-NEP) <br>
+Next Event Prediction: [BERTurk](https://huggingface.co/ardauzunoglu/BERTurk-NEP), [DistilBERTurk](https://huggingface.co/ardauzunoglu/DistilBERTurk-NEP), [XLM-R](https://huggingface.co/ardauzunoglu/XLM-R-Turkish-NEP) <br>
 Summarization: [mBART](https://huggingface.co/ardauzunoglu/mbart-pro-summ), [mT5](https://huggingface.co/ardauzunoglu/mt5-base-pro-summ), [TR-BART](https://huggingface.co/ardauzunoglu/tr-bart-pro-summ) <br>
 SimCSE Models: [Supervised BERT](https://huggingface.co/ardauzunoglu/sup-simcse-tr-bert-base), [Unsupervised BERT](https://huggingface.co/ardauzunoglu/unsup-simcse-tr-bert-base), [Supervised XLM-R](https://huggingface.co/ardauzunoglu/sup-simcse-tr-xlm-roberta-base), [Unsupervised XLM-R](https://huggingface.co/ardauzunoglu/unsup-simcse-tr-xlm-roberta-base) <br>
 
