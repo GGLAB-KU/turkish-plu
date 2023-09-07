@@ -98,6 +98,16 @@ Next Event Prediction: [BERTurk](https://huggingface.co/ardauzunoglu/BERTurk-NEP
 Summarization: [mBART](https://huggingface.co/ardauzunoglu/mbart-pro-summ), [mT5](https://huggingface.co/ardauzunoglu/mt5-base-pro-summ), [TR-BART](https://huggingface.co/ardauzunoglu/tr-bart-pro-summ) <br>
 SimCSE Models: [Supervised BERT](https://huggingface.co/ardauzunoglu/sup-simcse-tr-bert-base), [Unsupervised BERT](https://huggingface.co/ardauzunoglu/unsup-simcse-tr-bert-base), [Supervised XLM-R](https://huggingface.co/ardauzunoglu/sup-simcse-tr-xlm-roberta-base), [Unsupervised XLM-R](https://huggingface.co/ardauzunoglu/unsup-simcse-tr-xlm-roberta-base) <br>
 
+# ⚙️ Implementation Details
+
+Goal inference, step inference, and step ordering models are trained by using the hyperparameter sets provided by [Reasoning about Goals, Steps, and Temporal Ordering with WikiHow](https://github.com/zharry29/wikihow-goal-step). Next event prediction models are also trained with the same hyperparameter sets. <br>
+
+Reranking models used in linking actions are trained by using the hyperparameter sets provided by [Show Me More Details: Discovering Hierarchies of Procedures from Semi-structured Web Data](https://github.com/shuyanzhou/wikihow_hierarchy). √
+
+Summarization models are trained by using the hyperparameter sets provided by [Mukayese: Turkish NLP Strikes Back](https://github.com/alisafaya/mukayese). <br>
+
+Please refer to our paper for the rest of the implementation details.
+
 # 🖊️ Citation
 
 To be updated upon publication.
