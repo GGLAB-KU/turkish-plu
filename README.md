@@ -102,7 +102,7 @@ SimCSE Models: [Supervised BERT](https://huggingface.co/ardauzunoglu/sup-simcse-
 
 Goal inference, step inference, and step ordering models are trained by using the hyperparameter sets provided by [Reasoning about Goals, Steps, and Temporal Ordering with WikiHow](https://github.com/zharry29/wikihow-goal-step). Next event prediction models are also trained with the same hyperparameter sets. <br>
 
-Reranking models used in linking actions are trained by using the hyperparameter sets provided by [Show Me More Details: Discovering Hierarchies of Procedures from Semi-structured Web Data](https://github.com/shuyanzhou/wikihow_hierarchy). √
+Reranking models used in linking actions are trained by using the hyperparameter sets provided by [Show Me More Details: Discovering Hierarchies of Procedures from Semi-structured Web Data](https://github.com/shuyanzhou/wikihow_hierarchy). <br>
 
 Summarization models are trained by using the hyperparameter sets provided by [Mukayese: Turkish NLP Strikes Back](https://github.com/alisafaya/mukayese). <br>
 
