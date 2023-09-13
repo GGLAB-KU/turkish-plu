@@ -106,6 +106,8 @@ Reranking models used in linking actions are trained by using the hyperparameter
 
 Summarization models are trained by using the hyperparameter sets provided by [Mukayese: Turkish NLP Strikes Back](https://github.com/alisafaya/mukayese). <br>
 
+Hyperparameter sets also can be found in the README files within the folder of each task under the ```tasks``` folder.
+
 Please refer to our paper for the rest of the implementation details.
 
 # 🖊️ Citation
