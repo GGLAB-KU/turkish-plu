@@ -111,9 +111,30 @@ Hyperparameter sets also can be found in the README files within the folder of e
 Please refer to our paper for the rest of the implementation details.
 
 # 🖊️ Citation
+Please cite our paper if you use any of our benchmark, datasets, or baselines:
 
-To be updated upon publication.
 
+```
+@inproceedings{uzunoglu-sahin-2023-benchmarking,
+    title = "Benchmarking Procedural Language Understanding for Low-Resource Languages: A Case Study on {T}urkish",
+    author = {Uzunoglu, Arda  and
+      {\c{S}}ahin, G{\"o}zde},
+    editor = "Park, Jong C.  and
+      Arase, Yuki  and
+      Hu, Baotian  and
+      Lu, Wei  and
+      Wijaya, Derry  and
+      Purwarianti, Ayu  and
+      Krisnadhi, Adila Alfa",
+    booktitle = "Proceedings of the 13th International Joint Conference on Natural Language Processing and the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = nov,
+    year = "2023",
+    address = "Nusa Dua, Bali",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.ijcnlp-main.52",
+    pages = "804--819",
+}
+```
 # ℹ️ Acknowledgement
 
 This work has been supported by the [Scientific and Technological Research Council of Türkiye~(TÜBİTAK)](https://www.tubitak.gov.tr/) as part of the project ``Automatic Learning of Procedural Language from Natural Language Instructions for Intelligent Assistance'' with the number 121C132. We also gratefully acknowledge [KUIS AI Lab](https://ai.ku.edu.tr/) for providing computational support. 
